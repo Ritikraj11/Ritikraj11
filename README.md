@@ -14,12 +14,12 @@
 ## 🖼️ Portfolio
 
 🔗 Visit my portfolio to explore my featured projects, skills, and experience in detail:  
-👉 **[[https://portfolio-o3p7mer4z-ritikraj11s-projects.vercel.app/](https://portfolio-o3p7mer4z-ritikraj11s-projects.vercel.app/](https://portfolio-9jdyf1n3k-ritikraj11s-projects.vercel.app/))**
+👉 **[https://portfolio-9jdyf1n3k-ritikraj11s-projects.vercel.app](https://portfolio-9jdyf1n3k-ritikraj11s-projects.vercel.app)**
 
 You’ll find:
-- 🎯 Personal & academic projects with live demos
-- 🧰 Tech stack I use (React, JS, HTML/CSS, etc.)
-- 📱 A fully responsive design
+- 🎯 Personal & academic projects with live demos  
+- 🧰 Tech stack I use (React, JS, HTML/CSS, etc.)  
+- 📱 A fully responsive design  
 - 🧑‍💼 About me and contact form
 
 ---
