@@ -14,7 +14,7 @@
 ## 🖼️ Portfolio
 
 🔗 Visit my portfolio to explore my featured projects, skills, and experience in detail:  
-👉 **[https://portfolio-9jdyf1n3k-ritikraj11s-projects.vercel.app](https://portfolio-9jdyf1n3k-ritikraj11s-projects.vercel.app)**
+👉 **[https://portfolio-sduo.vercel.app/](https://portfolio-sduo.vercel.app/)**
 
 You’ll find:
 - 🎯 Personal & academic projects with live demos  
