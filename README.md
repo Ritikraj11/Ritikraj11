@@ -1,13 +1,13 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ritik Raj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTAyYnJtaXhqZmEwaHVneXM2MHlpNDFpcDB2Y3RoMjhtZzBhOTFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikraj11&label=Profile%20views&color=0e75b6&style=flat" alt="ritikraj11" /> </p>
 
 - 🌱 I’m currently learning **Computer Networks , Machine Learning and AI**
 
-- 💬 Ask me about **HTML, CSS ,C language, JS, Python, React , Flutter, Angular, Typescript**
+- 💬 Ask me about **HTML, CSS ,C language, JS, Python, React , Flutter, Angular, Typescript, node.js,PHP**
 
 ---
 
