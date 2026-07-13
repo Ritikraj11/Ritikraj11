@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikraj11&label=Profile%20views&color=0e75b6&style=flat" alt="ritikraj11" /> </p>
 
-- 🌱 I’m currently learning **React , Flutter**
+- 🌱 I’m currently learning **Computer Networks , MAchine Learning and AI**
 
-- 💬 Ask me about **HTML, CSS ,C language, JS, Python**
+- 💬 Ask me about **HTML, CSS ,C language, JS, Python, React , Flutter, Angular, Typescript**
 
 ---
 
